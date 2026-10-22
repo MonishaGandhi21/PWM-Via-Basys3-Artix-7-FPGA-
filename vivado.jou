@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Apr 24 21:25:13 2024
+# Process ID: 23668
+# Current directory: C:/Users/Monisha/Desktop/PWM/march/PWM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent33868 C:\Users\Monisha\Desktop\PWM\march\PWM\PWM.xpr
+# Log file: C:/Users/Monisha/Desktop/PWM/march/PWM/vivado.log
+# Journal file: C:/Users/Monisha/Desktop/PWM/march/PWM\vivado.jou
+# Running On: DESKTOP-SOQVEDF, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 2, Host memory: 8317 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Monisha/Desktop/PWM/march/PWM/PWM.xpr
+update_compile_order -fileset sources_1
